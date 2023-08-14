@@ -1,4 +1,4 @@
-# Teste para vaga dev. Flutter - MyProd
+# Teste para vaga dev. Freelancer Flutter - MyProd
 Este repositório tem como fim testar os candidatos para vaga dev. Flutter Junior no projeto MyProd.
 
 
@@ -21,6 +21,9 @@ Este repositório tem como fim testar os candidatos para vaga dev. Flutter Junio
 * Qualidade de código
 * Organização de componentes e widgets
 * Semelhança do design fornecido e front-end desenvolvido
+
+## Seria interessante de ver
+* Usar alguma lib para gerenciamento de estado (preferencialmente GetX)
 
 ## Stack
 * Dart/Flutter
