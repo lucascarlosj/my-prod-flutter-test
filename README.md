@@ -40,7 +40,10 @@ https://scene.zeplin.io/project/5b48f7870acff10844983114
 
 Instale em sua máquina o gerenciador de versões do Flutter PURO.DEV ou siga os passos abaixo:
 
-## Instalação
+## Demonstração
+![Demonstração](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpucWZ0ZWQza25rMXphZGxtcW50aXA4cmR1a3ZqbDloMHRhNGs0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3yP1dZJpNZtjGroOte/giphy.gif)
+
+## Como executar
 
 Abra seu PowerShell e execute o seguinte comando:
 
