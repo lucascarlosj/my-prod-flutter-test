@@ -35,3 +35,27 @@ https://scene.zeplin.io/project/5b48f7870acff10844983114
 
 ## Envio do teste
 1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter Junior** para Jackson Aguiar [jacksonwellington.sa@gmail.com](mailto:jacksonwellington.sa@gmail.com)
+
+## Para rodar o projeto
+
+Instale em sua máquina o gerenciador de versões do Flutter PURO.DEV ou siga os passos abaixo:
+
+## Instalação
+
+Abra seu PowerShell e execute o seguinte comando:
+
+```bash
+Invoke-WebRequest -Uri "https://puro.dev/builds/1.3.4/windows-x64/puro.exe" -OutFile "$env:temp\puro.exe"; &"$env:temp\puro.exe" install-puro --promote
+```
+
+Após isso, feche seu PowerShell e abra novamente e digite o seguinte comando:
+
+```bash
+puro create myprodenv 3.7.0
+```
+
+Agora dê um clone neste repositório e dentro da pasta, abra o terminal e digite este comando:
+```bash
+puro use myprodenv
+```
+Entre no projeto, vá no arquivo pubspec.yaml e clique em get packages, após isso, rode o projeto normalmente.
